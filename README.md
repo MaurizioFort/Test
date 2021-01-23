@@ -1,2 +1,2 @@
 # Test
-Non sono sicuro di quello che sto facendo
+I am editing the README file. Adding some more details about the project description.
